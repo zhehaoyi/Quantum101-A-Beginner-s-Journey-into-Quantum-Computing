@@ -20,7 +20,4 @@ Please See the [LICENSE](LICENSE) file for details.
 ---
 
 **Zhehao Yi**  
-AARC Lab  
-Department of Electrical and Computer Engineering  
-University of Alabama in Huntsville  
-Huntsville, AL, United States  
+
